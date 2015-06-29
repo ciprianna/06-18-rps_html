@@ -31,6 +31,23 @@ nav button {
   font-weight: bold;
   font-size: 18pt;
   border: solid;
+  border-radius: 5pt;
   background-color: #C5D0BF;
   width: 100%;
+}
+
+#index {
+  width: 98%;
+}
+
+#rock {
+
+}
+
+#paper{
+
+}
+
+#scissors{
+  
 }
