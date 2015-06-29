@@ -11,6 +11,14 @@ body {
   margin: 0pt;
 }
 
+button:active {
+  background: #C1BAA7;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
 h1 {
   font-size: 24pt;
   font-family: 'Century Gothic', 'CenturyGothic', 'AppleGothic', sans-serif;
@@ -21,7 +29,8 @@ nav button {
   text-align: center;
   font-family: 'Century Gothic', 'CenturyGothic', 'AppleGothic', sans-serif;
   font-weight: bold;
-  font-size: 20pt;
+  font-size: 18pt;
   border: solid;
   background-color: #C5D0BF;
+  width: 100%;
 }
