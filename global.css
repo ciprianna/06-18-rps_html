@@ -1,0 +1,8 @@
+/* Box Model Fix */
+html {
+  box-sizing: border-box;
+  background: #DDDDDD
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
