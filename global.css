@@ -64,3 +64,12 @@ nav button {
   border: solid;
   border-radius: 10pt;
 }
+
+#winning_cat {
+  display: block;
+  margin: auto;
+  width: 100%;
+  height: inherit;
+  border: solid;
+  border-radius: 50%;
+}
