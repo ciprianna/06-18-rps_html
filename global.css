@@ -1,14 +1,27 @@
 /* Box Model Fix */
 html {
   box-sizing: border-box;
-  background: #DDDDDD
+  background: #BEC4D4;
 }
 *, *:before, *:after {
   box-sizing: inherit;
+}
+
+body {
+  margin: 0pt;
 }
 
 h1 {
   font-size: 24pt;
   font-family: 'Century Gothic', 'CenturyGothic', 'AppleGothic', sans-serif;
   text-align: center;
+}
+
+nav button {
+  text-align: center;
+  font-family: 'Century Gothic', 'CenturyGothic', 'AppleGothic', sans-serif;
+  font-weight: bold;
+  font-size: 20pt;
+  border: solid;
+  background-color: #C5D0BF;
 }
